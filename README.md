@@ -1,4 +1,4 @@
-<h1>All The Good Names Were Taken</h1>
+<h1>Chief Framework</h1>
 ======
 <br><br>
 This is a Responsive HTML5 Boilerplate infused with Bootstrap, Font Awesome, and lessHAT. It is built specifically for .less files and to be responsive. Changes are being made daily so be up to date and watch the repo. Feel free to fork it and play around with the source.
